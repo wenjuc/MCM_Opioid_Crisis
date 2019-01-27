@@ -20,7 +20,7 @@ def write_csv(file, lst):
 
 loc_list = set(df['Location'])
 
-write_csv(f, ['Year', 'Location', 'Substance', 'DrugReports', 'County_Rate', 'change'])
+write_csv(f, ['Year', 'Location', 'Substance', 'DrugReports', 'County_Rate', 'change', 'County', 'State'])
 for i, substance in enumerate(set(df['SubstanceName'])):
 	print i, substance
 	for location in loc_list:
@@ -32,8 +32,9 @@ for i, substance in enumerate(set(df['SubstanceName'])):
 			l_val = 0.1 if len(last_year) == 0 else last_year['County_Rate'].item()
 			dr = 0 if len(curr_year) == 0 else curr_year['DrugReports'].item()
 			cr = 0 if len(curr_year) == 0 else curr_year['County_Rate'].item()
+			county, state = location.split(", ")
 			change = (c_val - l_val) / float(l_val)
-			write_csv(f, [year, location, substance, dr, cr, change
+			write_csv(f, [year, location, substance, dr, cr, change, county, state])
 
 f.close()			
 
