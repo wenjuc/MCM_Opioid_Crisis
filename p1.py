@@ -7,13 +7,22 @@ print "reading data"
 df = pd.read_csv("2018_MCMProblemC_DATA/updated_nflis_data.csv")
 df = df.assign(Location = lambda x: x.County + ", " + x.State)
 
+f = open("out/out.csv", "w")
+def write_csv(file, lst):
+	for i, item in enumerate(lst):
+		if i != 0:
+			file.write(",")
+		if type(item) != str:
+			file.write(str(item))
+		else:
+			file.write("\"" + item + "\"")
+	file.write("\n")
+
 loc_list = set(df['Location'])
 
-new_df = pd.DataFrame(columns=['Year', 'Location', 'Substance', 'DrugReports', 'County_Rate', 'change'])
-
-row = 0
-for substance in set(df['SubstanceName']):
-	print substance
+write_csv(f, ['Year', 'Location', 'Substance', 'DrugReports', 'County_Rate', 'change'])
+for i, substance in enumerate(set(df['SubstanceName'])):
+	print i, substance
 	for location in loc_list:
 		info = df.loc[(df['SubstanceName'] == substance) & (df['Location'] == location)]
 		for year in range(2011, 2018):
@@ -24,8 +33,10 @@ for substance in set(df['SubstanceName']):
 			dr = 0 if len(curr_year) == 0 else curr_year['DrugReports'].item()
 			cr = 0 if len(curr_year) == 0 else curr_year['County_Rate'].item()
 			change = (c_val - l_val) / float(l_val)
-			new_df.loc[row] = [year, location, substance, dr, cr, change]
-			row += 1
+			write_csv(f, [year, location, substance, dr, cr, change
 
-print "writing to out/out.csv"
-new_df.to_csv("out/out.csv")
+f.close()			
+
+
+# print "writing to out/out.csv"
+# new_df.to_csv("out/out.csv")
