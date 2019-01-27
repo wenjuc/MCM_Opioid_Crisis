@@ -1,0 +1,194 @@
+2010:
+Desmethylprodine
+Butyryl fentanyl
+3,4-Methylenedioxy U-47700
+3-Fluorofentanyl
+'3-Methylfentanyl'
+'U-51754'
+'U-48800'
+'o-Fluorofentanyl'
+Fluoroisobutyryl fentanyl'
+Crotonyl fentanyl
+'Mitragynine'
+'Metazocine'
+Valeryl fentanyl
+'Acetyldihydrocodeine'
+'Fluorofentanyl'
+'Levorphanol'
+Acryl fentanyl
+'MT-45'
+p-Fluorofentanyl
+p-methoxybutyryl fentanyl
+'ANPP'
+'cis-3-methylfentanyl'
+'Benzylfentanyl'
+'Hydrocodeinone'
+Methoxyacetyl fentanyl
+'trans-3-Methylfentanyl'
+Cyclopropyl/Crotonyl Fentanyl
+Furanyl fentanyl
+Cyclopentyl fentanyl
+'Remifentanil'
+Acetyl fentanyl
+Fluorobutyryl fentanyl
+'U-49900'
+'Nalbuphine'
+p-Fluorobutyryl fentanyl
+'Carfentanil'
+Cyclopropyl fentanyl
+'4-Methylfentanyl'
+Tetrahydrofuran fentany
+Furanyl/3-Furanyl fentanyl
+4-Fluoroisobutyryl fentanyl'
+Phenyl fentanyl
+Isobutyryl fentanyl
+'U-47700'
+
+
+2011 
+Butyryl fentanyl
+3,4-Methylenedioxy U-47700
+'3-Fluorofentanyl'
+'3-Methylfentanyl'
+'U-51754'
+'U-48800'
+'Dihydromorphone'
+'o-Fluorofentanyl'
+Fluoroisobutyryl fentanyl'
+Crotonyl fentanyl'
+'Metazocine'
+Valeryl fentanyl
+'Acetyldihydrocodeine'
+'Fluorofentanyl'
+'Levorphanol'
+Acryl fentany
+'MT-45'
+'p-Fluorofentanyl'
+'p-methoxybutyryl fentanyl
+'cis-3-methylfentanyl'
+'Benzylfentanyl'
+'Hydrocodeinone'
+Methoxyacetyl fentanyl
+'trans-3-Methylfentanyl'
+Cyclopropyl/Crotonyl Fentanyl
+Furanyl fentanyl
+Cyclopentyl fentanyl'
+'Remifentanil'
+Acetyl fentanyl'
+Fluorobutyryl fentanyl
+'U-49900'
+p-Fluorobutyryl fentanyl
+'Carfentanil'
+Cyclopropyl fentanyl
+'4-Methylfentanyl'
+'Tetrahydrofuran fentanyl'
+Furanyl/3-Furanyl fentanyl
+4-Fluoroisobutyryl fentanyl
+Phenyl fentanyl'
+'Alphaprodine'
+Isobutyryl fentanyl
+'U-47700'
+'Butorphanol'
+
+
+2012
+Butyryl fentanyl
+3,4-Methylenedioxy U-47700
+'3-Fluorofentanyl'
+'3-Methylfentanyl'
+'U-51754'
+'U-48800'
+'Dihydromorphone'
+'o-Fluorofentanyl'
+Fluoroisobutyryl fentanyl
+Crotonyl fentanyl
+'Metazocine'
+Valeryl fentanyl
+'Fluorofentanyl'
+'Levorphanol'
+Acryl fentanyl
+'MT-45'
+'p-Fluorofentanyl'
+p-methoxybutyryl fentanyl'
+'Thebaine'
+'ANPP'
+'cis-3-methylfentanyl
+'Benzylfentanyl'
+'Hydrocodeinone'
+'Acetylcodeine'
+'Methoxyacetyl fentanyl'
+'trans-3-Methylfentanyl'
+'Cyclopropyl/Crotonyl Fentanyl'
+Furanyl fentanyl'
+'Cyclopentyl fentanyl
+'Acetyl fentanyl'
+ 'Fluorobutyryl fentanyl 
+'U-49900'
+'Nalbuphine'
+'p-Fluorobutyryl fentanyl
+'Carfentanil'
+'Cyclopropyl fentanyl':
+'4-Methylfentanyl'
+ 'Tetrahydrofuran fentanyl'
+'Furanyl/3-Furanyl fentanyl'
+'4-Fluoroisobutyryl fentanyl'
+'Phenyl fentanyl'
+'Alphaprodine'
+'Isobutyryl fentanyl'
+'U-47700'
+
+
+2013
+'Butyryl fentanyl
+'3,4-Methylenedioxy U-47700
+'3-Fluorofentanyl'
+'3-Methylfentanyl'
+'U-51754'
+'U-48800'
+'Dihydromorphone'
+'o-Fluorofentanyl'
+ 'Fluoroisobutyryl fentanyl
+'Crotonyl fentanyl'
+'Metazocine'
+ 'Valeryl fentanyl'
+'Dihydrocodeine'
+'Acetyldihydrocodeine'
+'Fluorofentanyl'
+'Levorphanol'
+Acryl fentanyl'
+'p-Fluorofentanyl'
+p-methoxybutyryl fentanyl
+'Thebaine'
+'ANPP'
+'cis-3-methylfentanyl'
+'Benzylfentanyl'
+'Pethidine'
+'Methoxyacetyl fentanyl'
+'trans-3-Methylfentanyl':
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
