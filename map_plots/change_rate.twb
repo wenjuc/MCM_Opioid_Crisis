@@ -14,7 +14,7 @@
       <connection class='federated'>
         <named-connections>
           <named-connection caption='out' name='textscan.1etwb8x1wtzre71h2twh81qtrn0t'>
-            <connection class='textscan' directory='/Users/weikaihu/Desktop/MCM_Opioid_Crisis/out' filename='out.csv' password='' server='' />
+            <connection class='textscan' directory='/Users/Jiaming1/Downloads' filename='out.csv' password='' server='' />
           </named-connection>
         </named-connections>
         <relation connection='textscan.1etwb8x1wtzre71h2twh81qtrn0t' name='out.csv' table='[out#csv]' type='table'>
